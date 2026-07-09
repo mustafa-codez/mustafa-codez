@@ -44,6 +44,7 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
 ### 🔗 Connect With Me
 
 <p align="left">
