@@ -79,10 +79,30 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mustafa-codez&layout=compact&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 📊 GitHub Stats
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mustafa-codez&show_icons=true&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mustafa-codez&layout=compact&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### 📈 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/mustafa-codez/mustafa-codez/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mustafa-codez&layout=compact&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" /> </p> <br/> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" /> </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mustafa-codez/mustafa-codez/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+</p>
 ### 💭 Dev Quote
 
 <p align="center">
