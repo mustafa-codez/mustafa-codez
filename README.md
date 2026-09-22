@@ -98,11 +98,6 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
 
 <br/>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mustafa-codez/mustafa-codez/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
-</p>
 ### 💭 Dev Quote
 
 <p align="center">
