@@ -81,9 +81,7 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-codez&bg_color=00000000&color=65a30d&line=65a30d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<img src="https://raw.githubusercontent.com/mustafa-codez/mustafa-codez/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mustafa-codez&layout=compact&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" /> </p> <br/> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" /> </p>
 
 ### 💭 Dev Quote
 
