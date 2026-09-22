@@ -20,6 +20,23 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
 💬 &nbsp;Ask me about **cybersecurity, cybercrime psychology, OSINT**  
 ⚡ &nbsp;Fun fact: **I built a philosophical oracle app powered by Gemini, inspired by Norse mythology (Mimir's Archive)**
 
+### 🗂️ Explore My Work
+
+<p align="center">
+  <a href="https://github.com/mustafa-codez/cybersecurity">
+    <img src="https://img.shields.io/badge/🔐_Cybersecurity-65a30d?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/mustafa-codez/ai">
+    <img src="https://img.shields.io/badge/🤖_AI-ff7b72?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/mustafa-codez/cybercrime--osint">
+    <img src="https://img.shields.io/badge/🕵️_Cybercrime_&_OSINT-7c3aed?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/mustafa-codez/grc--policy">
+    <img src="https://img.shields.io/badge/⚖️_GRC_&_Policy-2563eb?style=for-the-badge" />
+  </a>
+</p>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
