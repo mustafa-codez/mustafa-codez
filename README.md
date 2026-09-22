@@ -26,14 +26,17 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
   <a href="https://github.com/mustafa-codez/cybersecurity">
     <img src="https://img.shields.io/badge/🔐_Cybersecurity-65a30d?style=for-the-badge" />
   </a>
+
   <a href="https://github.com/mustafa-codez/ai">
     <img src="https://img.shields.io/badge/🤖_AI-ff7b72?style=for-the-badge" />
   </a>
-  <a href="https://github.com/mustafa-codez/cybercrime--osint">
+
+  <a href="https://github.com/mustafa-codez/cybercrime-osint">
     <img src="https://img.shields.io/badge/🕵️_Cybercrime_&_OSINT-7c3aed?style=for-the-badge" />
   </a>
-  <a href="https://github.com/mustafa-codez/grc--policy">
-    <img src="https://img.shields.io/badge/⚖️_cybercrime-osint-2563eb?style=for-the-badge" />
+
+  <a href="https://github.com/mustafa-codez/grc-policy">
+    <img src="https://img.shields.io/badge/⚖️_GRC_&_Policy-2563eb?style=for-the-badge" />
   </a>
 </p>
 
