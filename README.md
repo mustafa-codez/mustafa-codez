@@ -72,12 +72,6 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
   <a href="mailto:devmustafa02@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mustafa-codez&show_icons=true&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mustafa-codez&layout=compact&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
 ### 📊 GitHub Stats
 
