@@ -13,7 +13,6 @@
 CS student specializing in cybersecurity, focused on transnational cybercrime investigation and digital forensics. I build security tools and write about the intersection of tech, law, and policy.
 
 😄 &nbsp;Pronouns: **he/him**  
-🔭 &nbsp;I'm currently working on **REDSHIFT — a blockchain forensics &amp; AML intelligence platform**  
 🌱 &nbsp;I'm currently learning **SOC fundamentals, OSINT, blockchain forensics, and international criminal law**  
 👯 &nbsp;I'm looking to collaborate on **cybersecurity + international law projects**  
 🤔 &nbsp;I'm looking for help with **breaking into cybersecurity &amp; cybercrime investigation roles**  
@@ -54,16 +53,6 @@ CS student specializing in cybersecurity, focused on transnational cybercrime in
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-🌱 **Currently exploring**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
 
 ### 🔗 Connect With Me
 
